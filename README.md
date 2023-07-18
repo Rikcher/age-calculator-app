@@ -33,9 +33,8 @@ Users should be able to:
 
 ### Screenshots
 
-![](./screenshot.png)
-
 desktop:
+
   ![](./screenshots/active-state-desktop.png)
   ![](./screenshots/complete-desktop.png)
   ![](./screenshots/design-desktop.png)
@@ -44,6 +43,7 @@ desktop:
   ![](./screenshots/error-whole-form-desktop.png)
 
 mobile:
+
   ![](./screenshots/complete-mobile.png)
   ![](./screenshots/design-mobile.png)
   ![](./screenshots/error-empty-mobile.png)
@@ -52,8 +52,7 @@ mobile:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [](https://rikcher.github.io/age-calculator-app/)
 
 ## My process
 
@@ -103,7 +102,7 @@ element.style.setProperty("--beforeDiv", "something new")
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Rikcher](https://www.frontendmentor.io/profile/Rikcher)
 
 
 
