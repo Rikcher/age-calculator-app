@@ -115,6 +115,18 @@ button.addEventListener("mouseout", () => {
 
 //* change horizontal line in the middle of box for mobile and back /
 
+const width = window.innerWidth
+const line = document.querySelector(".separator")
+if(width <= 375) {
+    line.innerHTML = `
+    <hr>
+    <button type="submit" form="date" value="submit">
+        <img src="assets/images/icon-arrow.svg" alt="arrow">
+    </button>
+    <hr>
+    `
+}
+
 window.addEventListener("resize", () => {
     const width = window.innerWidth
     const line = document.querySelector(".separator")
