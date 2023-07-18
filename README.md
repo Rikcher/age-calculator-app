@@ -52,7 +52,7 @@ mobile:
 
 ### Links
 
-- Live Site URL: [](https://rikcher.github.io/age-calculator-app/)
+- Live Site URL: [https://rikcher.github.io/age-calculator-app/](https://rikcher.github.io/age-calculator-app/)
 
 ## My process
 
