@@ -125,6 +125,7 @@ if(width <= 375) {
     </button>
     <hr>
     `
+}
 window.addEventListener("resize", () => {
     if(width <= 375) {
         line.innerHTML = `
