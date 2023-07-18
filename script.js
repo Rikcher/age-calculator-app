@@ -117,7 +117,7 @@ button.addEventListener("mouseout", () => {
 
 const width = window.innerWidth
 const line = document.querySelector(".separator")
-if(width <= 375) {
+if(width <= 500) {
     line.innerHTML = `
     <hr>
     <button type="submit" form="date" value="submit">
@@ -130,7 +130,7 @@ if(width <= 375) {
 window.addEventListener("resize", () => {
     const width = window.innerWidth
     const line = document.querySelector(".separator")
-    if(width <= 375) {
+    if(width <= 500) {
         line.innerHTML = `
         <hr>
         <button type="submit" form="date" value="submit">
