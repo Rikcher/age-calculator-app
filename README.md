@@ -52,6 +52,7 @@ mobile:
 
 ### Links
 
+- Solution URL: [https://www.frontendmentor.io/solutions/age-calculator-app-using-basic-htmlcssjs-joD-Sg1Wkp](https://www.frontendmentor.io/solutions/age-calculator-app-using-basic-htmlcssjs-joD-Sg1Wkp)
 - Live Site URL: [https://rikcher.github.io/age-calculator-app/](https://rikcher.github.io/age-calculator-app/)
 
 ## My process
